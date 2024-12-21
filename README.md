@@ -62,10 +62,22 @@
 
 <h2 align="center">📊 <strong>GitHub Stats</strong></h2>
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=tokyonight" alt="GitHub Streak" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappi-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="200" />
 </p>
+
+---
+
+<h2 align="center">🚀 <strong>Contributions</strong></h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Cappi-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="80%" />
+</p>
+
 
 
 ---
