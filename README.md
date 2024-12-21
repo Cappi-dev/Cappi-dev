@@ -91,7 +91,7 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 
 ---
 ## 🎵 **My Favorite Spotify Tunes**
-[![Spotify Banner](https://via.placeholder.com/800x200.png?text=Click+to+listen+on+Spotify)](https://open.spotify.com/playlist/7mseRAdJAU2HiAfHkkLgM5?si=9714a0a5af124aab)
+[![Spotify Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.spotify.com%2F2023-12-12%2Fspotify-to-continue-its-service-in-uruguay%2F&psig=AOvVaw3k9iXn6IwPBIpKi3IBcF5R&ust=1734845467610000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiq5ZCRuIoDFQAAAAAdAAAAABAE)](https://open.spotify.com/playlist/7mseRAdJAU2HiAfHkkLgM5?si=9714a0a5af124aab)
 
 ---
 
