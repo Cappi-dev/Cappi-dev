@@ -1,3 +1,5 @@
+## 🚀 **Jes Emanuel Chavez** — *Try Hard Developer*
+
 <p align="center">
   <img src="https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg" alt="Banner"/>
 </p>
@@ -90,21 +92,21 @@
 <p align="center">
   - 🚀 Launched my first app in 2022!<br />
   - 🎮 Gamer at heart, techie by profession.<br />
-  - 🎵 Always coding with music on!
+  - 🎵 Always coding with music on!<br />
+  - 🎮 <strong>Steam:</strong> [Profile](https://steamcommunity.com/profiles/76561198254519964/)<br />
+  - 💬 <strong>Discord:</strong> [@Jes#1234](https://discordapp.com/users/664773807290056726)<br />
+  - 🎮 <strong>Roblox:</strong> [Profile](https://www.roblox.com/users/127525682/profile)
 </p>
 
 ---
 
-
-<h2 align="center">🤝 <strong>Let's Collaborates</strong></h2>
+<h2 align="center">🤝 <strong>Let's Collaborate</strong></h2>
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JesEmChavez/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezjes71@example.com)
 
 </div>
-
-
 
 ---
 
