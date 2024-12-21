@@ -6,6 +6,11 @@
 
 ---
 
+## 👋 **Hello, World!**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Jes+Emanuel+Chavez;Full-Stack+Developer+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+
+---
+
 ## 📚 **About Me**
 - 💼 **Role:** Try Hard Developer  
 - 🎯 **Focus:** Web Development, APIs, and Scalable Systems  
@@ -39,10 +44,30 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappi-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=tokyonight" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappi-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
+---
+
+## 📈 **GitHub Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cappi-dev&theme=tokyonight)
+
+---
+
+## 🐍 **Contribution Snake**
+![Contribution Snake](https://github.com/Cappi-dev/Cappi-dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 😂 **A Developer's Joke**
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+## 📝 **Inspiration of the Day**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
