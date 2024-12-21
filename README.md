@@ -41,15 +41,14 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
 ## 🚀 **Featured Projects**
 <div align="center">
   <a href="https://github.com/karl2522/SavorSpace-Frontend">
-    <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="45%" />
+    <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="400" height="200" />
   </a>
   <a href="https://github.com/karl2522/SavorSpace-Backend">
-    <img src="https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg?text=SavorSpace+Backend" alt="SavorSpace Backend" width="45%" />
+    <img src="https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg?text=SavorSpace+Backend" alt="SavorSpace Backend" width="400" height="200" />
   </a>
   <a href="https://github.com/Cappi-dev/Payroll_System">
-    <img src="https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg?text=Payroll+System" alt="Payroll System" width="45%" />
+    <img src="https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg?text=Payroll+System" alt="Payroll System" width="400" height="200" />
   </a>
-
 </div>
 
 
@@ -87,6 +86,13 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
 - 🌱 Constant learner and avid reader.
 
 ---
+## 🎶 **My Spotify Playlist**
+<div align="center">
+  <a href="https://open.spotify.com/playlist/1pAi9UkQMFyPMYFA0jPgae?si=3dfc0373d4a54fed" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</div>
+
 
 ## 🎨 **Customization Ideas**
 - Add GIFs for animations using free tools like [Giphy](https://giphy.com/).  
