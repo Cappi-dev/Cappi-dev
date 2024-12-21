@@ -2,13 +2,14 @@
 
 ![Banner](https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg)
 
-Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨‍💻 🚀.  
-🌱 I love building **innovative projects** and contributing to the **open-source community**.  
-💡 Always curious to learn and grow in the world of tech.  
+Hello! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨‍💻 🚀.  
+I specialize in building **innovative projects** and contributing to the **open-source community**.  
+I am always curious and eager to expand my knowledge in the world of tech.
 
 ---
 
 ## 📌 **Quick Navigation**
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/)  
 [![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:chavezjes71@example.com)
@@ -26,22 +27,19 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
   <img src="https://img.shields.io/badge/Tools-App_Dev-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="App Dev"/>
 </div>
 
-
 ---
 
 ## 📈 **GitHub Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=radical" alt="GitHub Streak" />
-
 </div>
-
-
-
 
 ---
 
 ## 🚀 **Featured Projects**
+
 <div align="center">
   <a href="https://github.com/karl2522/SavorSpace-Frontend">
     <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="400" height="200" />
@@ -54,18 +52,19 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
   </a>
 </div>
 
-
 ---
 
 ## 🧑‍💻 **Open Source Contributions**
-- **[SavorSpace Frontend](https://github.com/karl2522/SavorSpace-Frontend)**: Worked on improving the user interface with modern React components and optimizing the design for a seamless experience.  
-- **[SavorSpace Backend](https://github.com/karl2522/SavorSpace-Backend)**: Contributed to building the API with RESTful services and implemented user authentication features for secure access.  
-- **[Payroll System](https://github.com/Cappi-dev/Payroll_System)**: Developed and integrated payroll calculation functionalities, ensuring accurate tax deductions and efficient employee pay processing.  
-- **[MATRIX GAME](https://github.com/Cappi-dev/MATRIX-GAME)**: Created engaging gameplay mechanics for a dynamic, matrix-inspired game, focused on smooth animations and user interactivity.  
+
+- **[SavorSpace Frontend](https://github.com/karl2522/SavorSpace-Frontend)**: Revamped the user interface with modern React components and optimized design for better user experience.  
+- **[SavorSpace Backend](https://github.com/karl2522/SavorSpace-Backend)**: Developed RESTful API services and implemented secure user authentication.  
+- **[Payroll System](https://github.com/Cappi-dev/Payroll_System)**: Integrated payroll functionalities, ensuring accurate calculations and efficient pay processing.  
+- **[MATRIX GAME](https://github.com/Cappi-dev/MATRIX-GAME)**: Created dynamic gameplay mechanics, focused on animations and smooth interactivity.
 
 ---
 
 ## 🎯 **Let's Connect**
+
 <div align="center">
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -84,27 +83,30 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
 ---
 
 ## 💬 **Fun Facts**
-- 🚀 Launched my first project at [age/year]!  
-- 🎨 Love sketching and exploring digital art.  
-- 🌱 Constant learner and avid reader.
+- 🚀 Launched my first project at a young age and it fueled my passion for tech!  
+- 🎨 I enjoy sketching and exploring digital art in my free time.  
+- 🌱 I'm always learning and expanding my skills to keep up with the latest tech trends.
 
 ---
+
 ## 🎶 **My Spotify Playlist**
+
 <div align="center">
   <a href="https://open.spotify.com/playlist/1pAi9UkQMFyPMYFA0jPgae?si=3dfc0373d4a54fed" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </div>
 
+---
 
 ## 🎨 **Customization Ideas**
-- Add GIFs for animations using free tools like [Giphy](https://giphy.com/).  
-- Create a custom banner using [Canva](https://www.canva.com/) or [Figma](https://www.figma.com/).  
-- Use shields.io badges for tools and achievements.  
+- Use GIFs and animations to bring the profile to life. Tools like [Giphy](https://giphy.com/) can help!  
+- Customize your banner with platforms like [Canva](https://www.canva.com/) or [Figma](https://www.figma.com/).  
+- Add badges using [Shields.io](https://shields.io/) for displaying achievements or tools used.
 
 ---
 
 ## 🌍 **Let's Build Together**
 _“Technology is best when it brings people together.”_
 
-Feel free to explore my repositories and connect for collaboration! 😊  
+Explore my repositories, reach out for collaboration, and let's build something amazing! 😊
