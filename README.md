@@ -95,15 +95,15 @@
 
 ---
 
-<h2 align="center">🤝 <strong>Let's Collaborate</strong></h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:chavezjes71@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## 🤝 **Let's Collaborate**
+
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jes.emanuel.chavez)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezjes71@example.com)
+
+</div>
+
 
 ---
 
