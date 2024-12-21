@@ -1,7 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvagabondmanga%2Fcomments%2F112vpf4%2Fclean_and_minimalistic_vagabond_banner_for%2F&psig=AOvVaw3ZjgU92Db8nUWJv2ect7om&ust=1734845660546000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjDqO6RuIoDFQAAAAAdAAAAABAE)
-
+![Banner](https://via.placeholder.com/1000x300.png?text=https://i.pinimg.com/originals/cc/b8/2a/ccb82acb76cc3a6215ff3d599ab080d6.gif)
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
 🌱 I love building **innovative projects** and contributing to the **open-source community**.  
@@ -10,19 +9,9 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 ---
 
 ## 📌 **Quick Navigation**
-
-<div align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
 
 ---
 
@@ -89,10 +78,6 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
----
-## 🎵 **My Favorite Spotify Tunes**
-[![Spotify Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.spotify.com%2F2023-12-12%2Fspotify-to-continue-its-service-in-uruguay%2F&psig=AOvVaw3k9iXn6IwPBIpKi3IBcF5R&ust=1734845467610000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiq5ZCRuIoDFQAAAAAdAAAAABAE)](https://open.spotify.com/playlist/7mseRAdJAU2HiAfHkkLgM5?si=9714a0a5af124aab)
 
 ---
 
