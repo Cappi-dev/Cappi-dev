@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner](https://imgur.com/3H0fRpU.gif)
+![Banner](https://imgur.com/rIlPS7X.gif)
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
 🌱 I love building **innovative projects** and contributing to the **open-source community**.  
