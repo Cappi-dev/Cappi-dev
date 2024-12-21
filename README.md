@@ -51,20 +51,6 @@
 
 ---
 
-## 📈 **GitHub Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cappi-dev&theme=tokyonight)
-
----
-
-## 🐍 **Contribution Snake**
-![Contribution Snake](https://github.com/Cappi-dev/Cappi-dev/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 😂 **A Developer's Joke**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
 
 ## 📝 **Inspiration of the Day**
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
