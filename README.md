@@ -95,10 +95,7 @@
 
 ---
 
-<h2 align="center">📝 <strong>Inspiration of the Day</strong></h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</p>
+
 
 ---
 
@@ -169,4 +166,10 @@
 
 <p align="center">
   🧠 <em>"Every line of code is a step closer to innovation!"</em>
+</p>
+
+---
+<h2 align="center">📝 <strong>Inspiration of the Day Before You Leave</strong></h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
