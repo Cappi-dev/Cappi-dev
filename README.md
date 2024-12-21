@@ -95,8 +95,8 @@
 
 ---
 
-## 🤝 **Let's Collaborate**
 
+<h2 align="center">🤝 <strong>Let's Collaborates</strong></h2>
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JesEmChavez/)  
