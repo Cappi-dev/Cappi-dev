@@ -62,31 +62,34 @@
 
 <h2 align="center">📊 <strong>GitHub Stats</strong></h2>
 
-<!-- GitHub Profile Stats -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
 </p>
 
-<!-- Top Languages -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=demo-repo" alt="Top Languages" height="200" />
 </p>
 
-<!-- Contributions and Achievements -->
+
 <h2 align="center">🚀 <strong>Contributions & Achievements</strong></h2>
 <p align="center">
-  <!-- Contribution Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="49%" style="display: inline-block; margin: 0 1%;" />
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Cappi-dev&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" width="49%" style="display: inline-block; margin: 0 1%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="80%" />
 </p>
 
-<!-- Contribution Activity Graph -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cappi-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=fab795&point=fab795" alt="Contribution Activity Graph" width="90%" />
 </p>
+
+
+<h2 align="center">🏆 <strong>GitHub Achievements</strong></h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cappi-dev&theme=tokyonight&no-frame=true&column=6" alt="Trophies" width="80%" />
+</p>
+
 
 
 
