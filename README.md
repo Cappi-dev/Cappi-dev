@@ -1,4 +1,4 @@
-## 🚀 **Jes Emanuel Chavez** — *Try Hard Developer*
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg" alt="Banner"/>
