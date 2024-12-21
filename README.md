@@ -70,13 +70,13 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** ðŸ‘¨â€
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:chavezjes71@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://x.com/JesChavez4">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
