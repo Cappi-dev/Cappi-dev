@@ -1,10 +1,8 @@
-
-
 <p align="center">
   <img src="https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg" alt="Banner"/>
 </p>
 
-<h1 align="center">style="color: #FF6F61;🚀 <strong>Jes Emanuel Chavez</strong> — <em>A Wanna Be Dev</em></h1>
+<h1 align="center">🚀 <strong>Jes Emanuel Chavez</strong> — <em>A Wanna Be Dev</em></h1>
 
 <p align="center">
   🌟 <em>Passionate about building innovative solutions, contributing to open-source projects, and exploring emerging tech trends.</em>
@@ -20,7 +18,7 @@
 
 ---
 
-<h2 align="center">style="color: #6A5ACD;📚 <strong>About Me</strong></h2>
+<h2 align="center">📚 <strong>About Me</strong></h2>
 <p align="center">
   - 💼 <strong>Role:</strong> Try Hard Developer<br />
   - 🎯 <strong>Focus:</strong> Web Development, APIs, and Scalable Systems<br />
@@ -30,7 +28,7 @@
 
 ---
 
-<h2 align="center">style="color: #FFD700;🗂️ <strong>Quick Links</strong></h2>
+<h2 align="center">🗂️ <strong>Quick Links</strong></h2>
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -40,7 +38,7 @@
 
 ---
 
-<h2 align="center">style="color: #00CED1;🛠️ <strong>Tech Stack</strong></h2>
+<h2 align="center">🛠️ <strong>Tech Stack</strong></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -62,7 +60,7 @@
 
 ---
 
-<h2 align="center">style="color: #FF69B4;📊 <strong>GitHub Stats</strong></h2>
+<h2 align="center">📊 <strong>GitHub Stats</strong></h2>
 
 <!-- GitHub Profile Stats -->
 <p align="center">
@@ -76,7 +74,7 @@
 </p>
 
 <!-- Contributions and Achievements -->
-<h2 align="center">style="color: #FFA07A;🚀 <strong>Contributions & Achievements</strong></h2>
+<h2 align="center">🚀 <strong>Contributions & Achievements</strong></h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="80%" />
 </p>
@@ -97,7 +95,7 @@
 
 
 
----
+
 
 <h2 align="center">🚀 <strong>Featured Projects</strong></h2>
 <div align="center">
@@ -135,9 +133,9 @@
 
 ---
 
----
 
-<h2 align="center">style="color: #20B2AA;🎮 <strong>My Game Profiles</strong></h2>
+
+<h2 align="center">🎮 <strong>My Game Profiles</strong></h2>
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198254519964/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-Profile-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
@@ -154,7 +152,7 @@
 
 ---
 
-<h2 align="center">style="color: #DA70D6;🤝 <strong>Let's Collaborate</strong></h2>
+<h2 align="center">🤝 <strong>Let's Collaborate</strong></h2>
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JesEmChavez/)  
@@ -164,12 +162,9 @@
 
 ---
 
-<p align="center">
-  🧠 <em>"Every line of code is a step closer to innovation!"</em>
-</p>
 
----
-<h2 align="center" style="color: #7FFF00;">📝 <strong>Inspiration of the Day</strong></h2>
+<h2 align="center">📝 <strong>Inspiration of the Day Before You Leave</strong></h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
+
