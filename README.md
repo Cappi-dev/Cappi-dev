@@ -4,7 +4,7 @@
   <img src="https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg" alt="Banner"/>
 </p>
 
-<h1 align="center">🚀 <strong>Jes Emanuel Chavez</strong> — <em>Try Hard Developer</em></h1>
+<h1 align="center">🚀 <strong>Jes Emanuel Chavez</strong> — <em>A Wanna Be Dev</em></h1>
 
 <p align="center">
   🌟 <em>Passionate about building innovative solutions, contributing to open-source projects, and exploring emerging tech trends.</em>
