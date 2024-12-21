@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">🛠️ <strong>Tech Stack</strong></h2>
+<h2 align="center">🛠️ <strong>Languages</strong></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
