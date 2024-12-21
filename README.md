@@ -90,6 +90,10 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 </div>
 
 ---
+## 🎵 **My Favorite Spotify Tunes**
+[![Spotify Banner](https://via.placeholder.com/800x200.png?text=Click+to+listen+on+Spotify)](https://open.spotify.com/playlist/7mseRAdJAU2HiAfHkkLgM5?si=9714a0a5af124aab)
+
+---
 
 ## 💬 **Fun Facts**
 - 🚀 Launched my first project at [age/year]!  
