@@ -138,17 +138,34 @@
 ---
 
 <h2 align="center">🎮 <strong>My Game Profiles</strong></h2>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198254519964/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-Profile-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <a href="https://discordapp.com/users/664773807290056726" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Profile-blurple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.roblox.com/users/127525682/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-Profile-FF47A7?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-  </a>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+  <!-- Steam Profile -->
+  <div style="text-align: center; width: 150px;">
+    <a href="https://steamcommunity.com/profiles/76561198254519964/" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Steam" style="width: 100px; margin-bottom: 10px;" />
+      <p style="font-size: 16px; font-weight: bold; color: #1b2838; background: linear-gradient(90deg, #1b2838, #4b8bbf); border-radius: 10px; padding: 5px; color: white;">Steam Profile</p>
+    </a>
+  </div>
+
+  <!-- Discord Profile -->
+  <div style="text-align: center; width: 150px;">
+    <a href="https://discordapp.com/users/664773807290056726" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" style="width: 100px; margin-bottom: 10px;" />
+      <p style="font-size: 16px; font-weight: bold; color: #7289da; background: linear-gradient(90deg, #7289da, #5865f2); border-radius: 10px; padding: 5px; color: white;">Discord Profile</p>
+    </a>
+  </div>
+
+  <!-- Roblox Profile -->
+  <div style="text-align: center; width: 150px;">
+    <a href="https://www.roblox.com/users/127525682/profile" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968821.png" alt="Roblox" style="width: 100px; margin-bottom: 10px;" />
+      <p style="font-size: 16px; font-weight: bold; color: #ff47a7; background: linear-gradient(90deg, #ff47a7, #f62e6f); border-radius: 10px; padding: 5px; color: white;">Roblox Profile</p>
+    </a>
+  </div>
+
+</div>
+
 
 ---
 
