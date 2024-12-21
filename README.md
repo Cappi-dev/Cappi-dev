@@ -11,7 +11,7 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 ## 📌 **Quick Navigation**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:chavezjes71@example.com)
 
 ---
 
