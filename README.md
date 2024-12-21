@@ -76,7 +76,11 @@
 <!-- Contributions and Achievements -->
 <h2 align="center">🚀 <strong>Contributions & Achievements</strong></h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="80%" />
+  <!-- Contribution Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cappi-dev&theme=tokyonight" alt="Contribution Summary" width="49%" style="display: inline-block; margin: 0 1%;" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Cappi-dev&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" width="49%" style="display: inline-block; margin: 0 1%;" />
 </p>
 
 <!-- Contribution Activity Graph -->
@@ -84,11 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cappi-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=fab795&point=fab795" alt="Contribution Activity Graph" width="90%" />
 </p>
 
-<!-- Trophies Section -->
-<h2 align="center">🏆 <strong>GitHub Achievements</strong></h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cappi-dev&theme=tokyonight&no-frame=true&column=6" alt="Trophies" width="80%" />
-</p>
 
 
 
