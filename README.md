@@ -1,6 +1,8 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner](https://i.pinimg.com/originals/cc/b8/2a/ccb82acb76cc3a6215ff3d599ab080d6.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/cc/b8/2a/ccb82acb76cc3a6215ff3d599ab080d6.gif" alt="GIF Banner" />
+</div>
 
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
