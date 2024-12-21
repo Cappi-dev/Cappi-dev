@@ -100,22 +100,38 @@
 
 ---
 
-<h2 align="center">🚀 <strong>Featured Project</strong></h2>
+<h2 align="center">🚀 <strong>Featured Projects</strong></h2>
 <div align="center">
-  
-  ### 🔗 [**SavorSpace Frontend**](https://github.com/karl2522/SavorSpace-Frontend)
-  🖥️ **Frontend for SavorSpace platform using React and modern UI components.**
-  ![Frontend Image](https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg)
-  
-  ### 🔗 [**SavorSpace Backend**](https://github.com/karl2522/SavorSpace-Backend)
-  ⚙️ **Backend with Spring Boot, focused on secure APIs and data management.**
-  ![Backend Image](https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg)
-  
-  ### 🔗 [**Payroll System**](https://github.com/Cappi-dev/Payroll_System)
-  💼 **Automated payroll calculation with precise tax deductions.**
-  ![Payroll Image](https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg)
-  
+
+  <!-- SavorSpace Frontend -->
+  <div style="display: inline-block; text-align: center; margin: 15px; width: 300px;">
+    <a href="https://github.com/karl2522/SavorSpace-Frontend" target="_blank">
+      <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg" alt="SavorSpace Frontend" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+    </a>
+    <h3>🔗 <a href="https://github.com/karl2522/SavorSpace-Frontend" target="_blank"><strong>SavorSpace Frontend</strong></a></h3>
+    <p style="font-size: 14px; color: #b0b0b0;">🖥️ Frontend for SavorSpace platform using React and modern UI components.</p>
+  </div>
+
+  <!-- SavorSpace Backend -->
+  <div style="display: inline-block; text-align: center; margin: 15px; width: 300px;">
+    <a href="https://github.com/karl2522/SavorSpace-Backend" target="_blank">
+      <img src="https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg" alt="SavorSpace Backend" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+    </a>
+    <h3>🔗 <a href="https://github.com/karl2522/SavorSpace-Backend" target="_blank"><strong>SavorSpace Backend</strong></a></h3>
+    <p style="font-size: 14px; color: #b0b0b0;">⚙️ Backend with Spring Boot, focused on secure APIs and data management.</p>
+  </div>
+
+  <!-- Payroll System -->
+  <div style="display: inline-block; text-align: center; margin: 15px; width: 300px;">
+    <a href="https://github.com/Cappi-dev/Payroll_System" target="_blank">
+      <img src="https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg" alt="Payroll System" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+    </a>
+    <h3>🔗 <a href="https://github.com/Cappi-dev/Payroll_System" target="_blank"><strong>Payroll System</strong></a></h3>
+    <p style="font-size: 14px; color: #b0b0b0;">💼 Automated payroll calculation with precise tax deductions.</p>
+  </div>
+
 </div>
+
 
 ---
 
