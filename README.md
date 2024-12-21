@@ -99,7 +99,7 @@
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jes.emanuel.chavez)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JesEmChavez/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezjes71@example.com)
 
 </div>
