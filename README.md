@@ -66,23 +66,23 @@
 </p>
 
 ---
+## 🚀 **Featured Projects**
 
-<h2 align="center">🚀 <strong>Featured Projects</strong></h2>
-
-<p align="center">
-  <a href="https://github.com/karl2522/SavorSpace-Frontend" target="_blank">
-    <strong>🔗 SavorSpace Frontend</strong> - 🖥️ <em>Frontend for SavorSpace platform using React and modern UI components.</em>
-    <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg" alt="Frontend Image" width="200"/>
-  </a>
-  <a href="https://github.com/karl2522/SavorSpace-Backend" target="_blank">
-    <strong>🔗 SavorSpace Backend</strong> - ⚙️ <em>Backend with Spring Boot, focused on secure APIs and data management.</em>
-    <img src="https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg" alt="Backend Image" width="200"/>
-  </a>
-  <a href="https://github.com/Cappi-dev/Payroll_System" target="_blank">
-    <strong>🔗 Payroll System</strong> - 💼 <em>Automated payroll calculation with precise tax deductions.</em>
-    <img src="https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg" alt="Payroll Image" width="200"/>
-  </a>
-</p>
+<div align="center">
+  
+  ### 🔗 [**SavorSpace Frontend**](https://github.com/karl2522/SavorSpace-Frontend)
+  🖥️ **Frontend for SavorSpace platform using React and modern UI components.**
+  ![Frontend Image](https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg)
+  
+  ### 🔗 [**SavorSpace Backend**](https://github.com/karl2522/SavorSpace-Backend)
+  ⚙️ **Backend with Spring Boot, focused on secure APIs and data management.**
+  ![Backend Image](https://i.pinimg.com/736x/af/3a/74/af3a741c07d2cfb96176a2f11470d25f.jpg)
+  
+  ### 🔗 [**Payroll System**](https://github.com/Cappi-dev/Payroll_System)
+  💼 **Automated payroll calculation with precise tax deductions.**
+  ![Payroll Image](https://i.pinimg.com/736x/a7/02/c2/a702c2ee276e68e95dc53a08f4ddfe17.jpg)
+  
+</div>
 
 ---
 
