@@ -2,7 +2,7 @@
 
 ![Banner](https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg)
 
-Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
+Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨‍💻 🚀.  
 🌱 I love building **innovative projects** and contributing to the **open-source community**.  
 💡 Always curious to learn and grow in the world of tech.  
 
@@ -10,7 +10,7 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 
 ## 📌 **Quick Navigation**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/)  
 [![Email](https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail)](mailto:chavezjes71@example.com)
 
 ---
@@ -21,9 +21,11 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Tools-App_Dev-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="App Dev"/>
 </div>
+
 
 ---
 
@@ -38,28 +40,28 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍�
 
 ## 🚀 **Featured Projects**
 <div align="center">
-  <a href="https://github.com/YourGitHubUsername/Project1">
-    <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1" width="45%" />
+  <a href="https://github.com/karl2522/SavorSpace-Frontend">
+    <img src="https://via.placeholder.com/400x200.png?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="45%" />
   </a>
-  <a href="https://github.com/YourGitHubUsername/Project2">
-    <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2" width="45%" />
+  <a href="https://github.com/karl2522/SavorSpace-Backend">
+    <img src="https://via.placeholder.com/400x200.png?text=SavorSpace+Backend" alt="SavorSpace Backend" width="45%" />
+  </a>
+  <a href="https://github.com/Cappi-dev/Payroll_System">
+    <img src="https://via.placeholder.com/400x200.png?text=Payroll+System" alt="Payroll System" width="45%" />
+  </a>
+  <a href="https://github.com/Cappi-dev/MATRIX-GAME">
+    <img src="https://via.placeholder.com/400x200.png?text=MATRIX+GAME" alt="MATRIX GAME" width="45%" />
   </a>
 </div>
+
 
 ---
 
 ## 🧑‍💻 **Open Source Contributions**
-- **[Repository Name](#)**: Description of your contribution.  
-- **[Repository Name](#)**: Description of your contribution.  
-
----
-
-## 🌟 **Achievements**
-- 🏆 **Open Source Contributor:** Contributed to [Project Name]  
-- 🥇 **Hackathon Winner:** 1st place in [Hackathon Name].  
-- 🎓 **Certifications:**  
-  - AWS Certified Solutions Architect  
-  - Certified Kubernetes Administrator  
+- **[SavorSpace Frontend](https://github.com/karl2522/SavorSpace-Frontend)**: Worked on improving the user interface with modern React components and optimizing the design for a seamless experience.  
+- **[SavorSpace Backend](https://github.com/karl2522/SavorSpace-Backend)**: Contributed to building the API with RESTful services and implemented user authentication features for secure access.  
+- **[Payroll System](https://github.com/Cappi-dev/Payroll_System)**: Developed and integrated payroll calculation functionalities, ensuring accurate tax deductions and efficient employee pay processing.  
+- **[MATRIX GAME](https://github.com/Cappi-dev/MATRIX-GAME)**: Created engaging gameplay mechanics for a dynamic, matrix-inspired game, focused on smooth animations and user interactivity.  
 
 ---
 
