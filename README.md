@@ -41,7 +41,7 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
 ## 🚀 **Featured Projects**
 <div align="center">
   <a href="https://github.com/karl2522/SavorSpace-Frontend">
-    <img src="https://via.placeholder.com/400x200.png?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="45%" />
+    <img src="https://i.pinimg.com/736x/8b/db/51/8bdb51ecf2f4c7d9a225a14b11a9d4dc.jpg?text=SavorSpace+Frontend" alt="SavorSpace Frontend" width="45%" />
   </a>
   <a href="https://github.com/karl2522/SavorSpace-Backend">
     <img src="https://via.placeholder.com/400x200.png?text=SavorSpace+Backend" alt="SavorSpace Backend" width="45%" />
