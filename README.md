@@ -85,10 +85,14 @@
 ---
 
 ## 🤝 **Let's Collaborate**
+
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:chavezjes71@example.com)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezjes71@example.com)
+
 </div>
+
 
 ---
 
