@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner](https://via.placeholder.com/1000x300.png?text=https://i.pinimg.com/originals/cc/b8/2a/ccb82acb76cc3a6215ff3d599ab080d6.gif)
+![Banner](https://via.placeholder.com/1000x300.png?text=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvagabondmanga%2Fcomments%2F112vpf4%2Fclean_and_minimalistic_vagabond_banner_for%2F&psig=AOvVaw3ZjgU92Db8nUWJv2ect7om&ust=1734845660546000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjDqO6RuIoDFQAAAAAdAAAAABAE)
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
 🌱 I love building **innovative projects** and contributing to the **open-source community**.  
