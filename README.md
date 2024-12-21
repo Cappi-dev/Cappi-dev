@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner](https://imgur.com/rIlPS7X.gif)
+![Banner](https://64.media.tumblr.com/f6753c4537c395a5305d5e8b872a35bc/c2332f2c10cafb94-1c/s1280x1920/0f86834b55e59e62707ca253f8d6d212df1f1af9.jpg)
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Role/Profession]** 👨‍💻 🚀.  
 🌱 I love building **innovative projects** and contributing to the **open-source community**.  
