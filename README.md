@@ -33,7 +33,7 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** ðŸ‘¨â€
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cappi-dev&theme=react-dark" alt="Activity Graph" />
+
 </div>
 
 
