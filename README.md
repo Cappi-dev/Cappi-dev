@@ -68,8 +68,8 @@
 </p>
 
 ---
-## 🚀 **Featured Projects**
 
+<h2 align="center">🚀 <strong>Featured Project</strong></h2>
 <div align="center">
   
   ### 🔗 [**SavorSpace Frontend**](https://github.com/karl2522/SavorSpace-Frontend)
