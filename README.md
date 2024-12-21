@@ -31,10 +31,11 @@ Hi there! I'm **Jes Emanuel Chavez**, a passionate **Try Hard Developer** 👨�
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cappi-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cappi-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cappi-dev&theme=react-dark" alt="Activity Graph" />
 </div>
+
 
 ---
 
