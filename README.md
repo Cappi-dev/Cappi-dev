@@ -88,14 +88,26 @@
 
 ---
 
+---
+
 <h2 align="center">🌟 <strong>Fun Facts</strong></h2>
 <p align="center">
   - 🚀 Launched my first app in 2022!<br />
   - 🎮 Gamer at heart, techie by profession.<br />
-  - 🎵 Always coding with music on!<br />
-  - 🎮 <strong>Steam:</strong> [Profile](https://steamcommunity.com/profiles/76561198254519964/)<br />
-  - 💬 <strong>Discord:</strong> [@Jes#1234](https://discordapp.com/users/664773807290056726)<br />
-  - 🎮 <strong>Roblox:</strong> [Profile](https://www.roblox.com/users/127525682/profile)
+  - 🎵 Always coding with music on!
+</p>
+
+<h2 align="center">🎮 <strong>My Game Profiles</strong></h2>
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198254519964/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Profile-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://discordapp.com/users/664773807290056726" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Profile-blurple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.roblox.com/users/127525682/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-Profile-FF47A7?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  </a>
 </p>
 
 ---
