@@ -33,7 +33,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jes-emanuel-chavez-b8ab0a342/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:chavezjes71@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://open.spotify.com/playlist/1pAi9UkQMFyPMYFA0jPgae?si=3dfc0373d4a54fed" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+
 </p>
 
 ---
@@ -146,6 +146,8 @@
   <a href="https://www.roblox.com/users/127525682/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-Profile-FF47A7?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   </a>
+    <a href="https://open.spotify.com/playlist/1pAi9UkQMFyPMYFA0jPgae?si=3dfc0373d4a54fed" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    </a>
 </p>
 
 
