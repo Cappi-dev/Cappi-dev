@@ -121,13 +121,6 @@
 
 ---
 
-<h2 align="center">🌟 <strong>Fun Facts</strong></h2>
-<p align="center">
-  - 🚀 Launched my first app in 2022!<br />
-  - 🎮 Gamer at heart, techie by profession.<br />
-  - 🎵 Always coding with music on!
-</p>
-
 <h2 align="center">🎮 <strong>My Game Profiles</strong></h2>
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198254519964/" target="_blank">
